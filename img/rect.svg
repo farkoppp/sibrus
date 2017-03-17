@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1916.5" height="306" viewBox="0 0 1916.5 306">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #131a1f;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-5" y="508" width="1921.5" height="306" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#41627a" flood-opacity="0"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_4_копия_2" data-name="Прямоугольник 4 копия 2" class="cls-1" d="M-5,508H1916.5V758L956,814-5,758V508Z" transform="translate(0 -508)"/>
+</svg>
